@@ -1,6 +1,6 @@
 {
   "name": "swapnoneel",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A brief info about Swapnoneel Saha",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,9 @@
   "keywords": [
     "swapnoneel"
   ],
+  "bin": {
+    "swapnoneel": "index.js"
+  },
   "author": "Swapnoneel Saha",
   "license": "ISC",
   "bugs": {
