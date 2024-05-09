@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Swpn0neel/swapnoneel/issues"
   },
-  "homepage": "https://github.com/Swpn0neel/swapnoneel#readme"
+  "homepage": "https://github.com/Swpn0neel/swapnoneel#readme",
+  "dependencies": {
+    "swapnoneel": "^1.0.0"
+  }
 }

@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 function swapnoneelInfo() {
   const intro =
     "Hello, I'm Swapnoneel Saha, a Web Developer, UI/UX designer, and Technical Writer based in Kolkata, India.";
